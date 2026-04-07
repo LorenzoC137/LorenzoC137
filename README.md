@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LorenzoC137
-- 👀 I’m interested in Game Theory, Machine Learning, Motorsports, Models for Climate Change
+- 👀 I’m interested in Machine Learning, Motorsports, Models for Climate Change
 - 🌱 I’m currently learning the paradigm of Reinforcement Learning
 - 📫 You can contact me by mail at the address lorenzocalzolari99@gmail.com
 
